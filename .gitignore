@@ -1,5 +1,6 @@
 *sln
 *.vcxproj
+*.filters
 
 ## OSX artifacts
 .DS_Store
